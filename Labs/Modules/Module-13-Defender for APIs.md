@@ -16,7 +16,7 @@ See the [Defender for API documentation](https://learn.microsoft.com/en-us/azure
 
 ### Exercise 1: CREATE AZURE API MANAGEMENT SERVICE
 
-Note: The deployment time for a new Azure API Management service is ~ 1 hr.
+Note: The deployment time for a new Azure API Management service is ~ 40 minutes.
 
 1.	From the Azure portal menu, select **Create a resource**. You can also select Create a resource on the Azure Home page.
  ![](../Images/api1.png?raw=true)
@@ -30,7 +30,7 @@ Note: The deployment time for a new Azure API Management service is ~ 1 hr.
 
 **Region**	North Europe
 
-**Resource name**	API-Man-Service .net. 
+**Resource name**	API-Man-Service .net. **(Give unique Resource name)**
 
 **Organization name**	Contoso
 
@@ -41,7 +41,7 @@ Note: The deployment time for a new Azure API Management service is ~ 1 hr.
 
 
 4. Select **Review + create**.
-5.	Once your API management service has been created after ~1 hour, then open it up in the Azure portal.
+5.	Once your API management service has been created after ~40 minutes, then open it up in the Azure portal.
 
 
 ### Exercise 2: PUBLISH AN API WITHIN API MANAGEMENT
